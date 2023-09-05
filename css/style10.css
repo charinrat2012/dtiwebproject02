@@ -1,0 +1,9 @@
+a{
+    font-size: 100px;
+}
+a:hover{
+    background-color: rgb(221, 152, 186);
+}
+input:focus{
+    background-color: burlywood
+}
